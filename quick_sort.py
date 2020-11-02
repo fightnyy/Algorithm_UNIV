@@ -15,7 +15,7 @@ def quick_sort(arr):
 
 
 def main ():
-    arr = [8,7,6,5,4,3,2,1]
+    arr = [6,7,8,5,4,3,2,1]
     s_arr = quick_sort(arr)
     print(s_arr)
 
